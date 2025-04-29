@@ -18,8 +18,16 @@ A Python library for generating application-focused, hierarchical summaries of r
 ```bash
 pip install engpapersumm
 ```
-
+### Export your APi key to env 
+```bash
+export OPENAI_API_KEY="..."
+```
 ### From Source
+```bash
+export OPENAI_API_KEY="..."
+pip install git+https://github.com/MMWilliams/engineering-paper-summarizer.git
+```
+
 ```bash
 git clone https://github.com/MMWilliams/engineering-paper-summarizer.git
 cd engineering-paper-summarizer
