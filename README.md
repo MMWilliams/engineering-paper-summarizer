@@ -21,7 +21,7 @@ pip install engpapersumm
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/engineering-paper-summarizer.git
+git clone https://github.com/MMWilliams/engineering-paper-summarizer.git
 cd engineering-paper-summarizer
 pip install -e .
 ```
